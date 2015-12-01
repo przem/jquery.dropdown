@@ -1,0 +1,12 @@
+{
+  "name": "jquery-dropdown",
+  "version": "1.6.1",
+  "main": [
+    "./css/dropdown.css",
+    "./js/jquery.dropdown.js",
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0",
+    "bootstrap": ">= 3.1.0"
+  },
+}

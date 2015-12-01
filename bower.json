@@ -5,6 +5,15 @@
     "./css/dropdown.css",
     "./js/jquery.dropdown.js",
   ],
+  "ignore": [
+    "**/.*",
+    "_config.yml",
+    "CNAME",
+    "composer.json",
+    "CONTRIBUTING.md",
+    "docs",
+    "js/tests"
+  ],
   "dependencies": {
     "jquery": ">= 1.9.0",
     "bootstrap": ">= 3.1.0"
